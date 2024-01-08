@@ -1,6 +1,12 @@
 # Molecule-Viewer
 Software Systems Development &amp; Integration (CIS*2750) Project
 
+This project allows for the uploading, viewing and rotating of molecules. Molecule information is interpreted from SDF files, and individual atoms can be customized for an enhanced viewing experience.
+
+<img src="./system design.jpg"
+     alt="System Design"/>
+
+
 To Execute:\
 1 - Use a Linux/Unix enviornment\
 2 - Navigate to the folder using CLI\
@@ -13,4 +19,4 @@ To Execute:\
 Notes:\
 ~ The <a href="./makefile">makefile</a> may need to be updated to access the <Python.h> library\
 ~ The <a href="./Test Files">Test Files</a> can be executed with the command `clang -L. -Wall -std=c99 -pedantic -lm test1.c -lmol -o a.out`\
-~ <a href="./Test Instructions.pdf">Test Instructions</a> can be used to test the functionality
+~ These <a href="./Test Instructions.pdf">Instructions</a> can be used to test the functionality using the <a href="./SDF Files">SDF Files</a>
