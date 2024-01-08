@@ -11,5 +11,5 @@ To Execute:\
 7 - Execute the command  `ctrl + c` to stop server
 
 Notes:\
-~ The <a href="./makefile">makefile</a> may need to be updated to access the <Python.h> library
-~ The 
+~ The <a href="./makefile">makefile</a> may need to be updated to access the <Python.h> library\
+~ The <a href="./Test Files">Test Files</a> can be executed with the command `clang -L. -Wall -std=c99 -pedantic -lm test1.c -lmol -o a.out`
