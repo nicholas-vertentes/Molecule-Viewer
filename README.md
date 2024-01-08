@@ -3,7 +3,7 @@ Software Systems Development &amp; Integration (CIS*2750) Project
 
 This project allows for the uploading, viewing and rotating of molecules. Molecule information is interpreted from SDF files, and individual atoms can be customized for an enhanced viewing experience.
 
-<img src="./system design.jpg"
+<img src="./Images/system design.jpg"
      alt="System Design"/>
 
 
