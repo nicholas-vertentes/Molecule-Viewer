@@ -1,0 +1,21 @@
+*
+{
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+#homePageHeader
+{
+    font-weight:bold; 
+    text-align: center;
+    font-size: 4em;
+}
+
+#homePageSubHeader{
+    font-style:italic;
+    text-align: center;
+    font-size: 2em;
+}
+
+.element_list{
+    color: blue;
+}
