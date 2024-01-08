@@ -12,4 +12,5 @@ To Execute:\
 
 Notes:\
 ~ The <a href="./makefile">makefile</a> may need to be updated to access the <Python.h> library\
-~ The <a href="./Test Files">Test Files</a> can be executed with the command `clang -L. -Wall -std=c99 -pedantic -lm test1.c -lmol -o a.out`
+~ The <a href="./Test Files">Test Files</a> can be executed with the command `clang -L. -Wall -std=c99 -pedantic -lm test1.c -lmol -o a.out`\
+~ <a href="./Test Instructions.pdf">Test Instructions</a> can be used to test the functionality
